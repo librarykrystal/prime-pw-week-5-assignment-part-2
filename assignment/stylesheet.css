@@ -1,3 +1,32 @@
+/*
 header {
-    background-color: lightgray;
+    color: white;
+    background-color: darkred;
+    text-align: center;
 }
+*/
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body {
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0;
+
+}
+
+/*
+(STRETCH GOAL) To use class instead to style the header:
+*/
+
+.headerClass {
+    color: white;
+    background-color: darkred;
+    text-align: center;
+}
+
+
+
