@@ -6,6 +6,17 @@ header {
 }
 */
 
+/*
+(STRETCH GOAL/partial) To use class instead to style the header:
+*/
+
+
+.headerClass {
+    color: white;
+    background-color: darkred;
+    text-align: center;
+}
+
 main {
     background-color: lightgrey;
     padding: 1em;
@@ -17,16 +28,4 @@ body {
     margin: 0;
 
 }
-
-/*
-(STRETCH GOAL) To use class instead to style the header:
-*/
-
-.headerClass {
-    color: white;
-    background-color: darkred;
-    text-align: center;
-}
-
-
 
